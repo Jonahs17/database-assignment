@@ -1,0 +1,40 @@
+Database ASSIGNMENT
+
+1.Database is a tool used to store data in computers in a soft mode. We need database to store retrieve and modify data as and when required as data as a lot of important purposes in contemporary times.
+
+2.File based storage system is a type of storage system in which data is recorded in the form of files and folders and in a heirarchical format. The major challenges were the use of duplicate data, security, difficulty in maintaining as well as concurrency.
+
+3.DBMS stands for database management system. DBMS place a very important role in keeping data safe and Secure as well as eliminating many different problems and issues of the older techniques of storing data like file based management system. It has advanced features to reduce issues like redundancy, concurrency, security and is easy to use.
+
+4.Some of the challenges faced by users in file based storage system which was tackled by database management system are as follows 
+a. Redundancy, which was the duplication of data this was the later cause of many other problems later discussed. 
+b. Read anomaly which was caused due to redundancy in older file based systems. 
+c. Write and update anomaly which has also caused due to redundancy in order file based storage system. 
+d. Security was another problem which was tackled by the newer DBMS system. 
+e. Concurrency was not possible in the fbss and was introduced in the dbms.
+
+5.Classification of dbms:
+A)Based on data modelling:
+a)Relational model
+b)Network model
+c)Physical Data model
+B)Based on user:
+a)Single user
+b)Multiple user
+C)Based on database distribution:
+a)Distributed
+b)Centralized
+
+6.Data modeling is a crucial aspect of the data science and analytics process. It involves structuring and organizing data to understand relationships, patterns, and trends within datasets.It i significant due to its features like data integrity, efficient management,scalability, flexibility,and security.
+Types of data modelling are:
+a. High level conceptual data model,which has entities and relations similar to real world scenarios.
+b. Relational data model, which has tables(entities) with attributes and relationships.
+c.Heirarchichal model, which is based on tree like structure.
+d.Network model, based on complex graph like structure.
+e.Physical model, describing how data is stored in the memory space.
+
+7.The three-schema architecture divides a database into external, conceptual, and internal schemas.
+External Schema: What users see; provides customization and shields users from underlying changes.
+Conceptual Schema: Entire logical structure of the database; ensures consistency and centralizes control.
+Internal Schema: Physical storage details; enables optimization and security measures.
+Advantages include data independence, flexibility, and modularity.
